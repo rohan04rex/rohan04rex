@@ -1,4 +1,4 @@
-<h2 align="left">Hey! I’m a Rohan full-stack enthusiast⚡<br> I specialize in creating dynamic web apps using Java for the logic and HTML/CSS for the magic. 🤍🙂<br>Always leveling up, always exploring new tech 📈</h2>
+<h2 align="left">Hey! I’m a Rohan full-stack enthusiast⚡<br> I specialize in creating dynamic web apps using Java Script for the logic and HTML/CSS for the magic. 🤍🙂<br>Always leveling up, always exploring new tech 📈<br>Also working on improving Python programming for meeting future goals and skill sets 🐍</h2>
 
 ###
 
