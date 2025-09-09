@@ -2,7 +2,7 @@
 I specialize in creating dynamic web apps using JavaScript for the logic and HTML/CSS for the magic. 🤍🙂<br>
 Always leveling up, always exploring new tech 📈<br>
 Also working on improving Python programming for meeting future goals and skill sets 🐍 <br> 
-Trying to integrate AI with web dev
+Integrate AI with web dev
 </h2>
 
 ###
